@@ -1,0 +1,32 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(163, 74, 175);
+    padding: 50px;
+}
+
+header h1 {
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+body {
+    padding: 0px 250px;
+}
+.caja {
+    display: flex;
+    justify-content: center;
+}
+
+.caja img {
+    width: 500px;
+    padding: 30px;
+}
+
+.texto {
+    padding: 30px;
+
+}
